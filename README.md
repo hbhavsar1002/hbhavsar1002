@@ -21,14 +21,11 @@ Here are some ideas to get you started:
 # 👋 Hi, I’m [Harsh Hirenkumar Bhavsar](https://github.com/hbhavsar1002)
 <!-- https://shields.io/ https://simpleicons.org/ https://github.com/simple-icons/simple-icons/blob/develop/slugs.md -->
 <p align="center"><br/>
- <a href="https://www.linkedin.com/in/timothy-william-james/">
-  <img src="https://img.shields.io/badge/linkedin-Timothy%20James-blue?style=flat-square&logo=linkedin">
+ <a href="https://www.linkedin.com/in/harsh-bhavsar-71a3a0113/">
+  <img src="https://img.shields.io/badge/linkedin-Harsh%20Hirenkumar%20Bhavsar-blue?style=flat-square&logo=linkedin">
  </a>
- <a href="mailto:tim.james.work9800@gmail.com">
-  <img src="https://img.shields.io/badge/Email-tim.james.work9800%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white">
- </a>
- <a href="https://timjames.dev/blog">
-  <img src="https://img.shields.io/badge/Blog-timjames.dev%2Fblog-006400?style=flat-square&logo=devdotto&logoColor=white">
+ <a href="mailto:hbhavsar1002@gmail.com">
+  <img src="https://img.shields.io/badge/Email-hbhavsar1002%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white">
  </a>
 </p>
 

@@ -28,7 +28,7 @@
 - ✨ **Interests**: Poetry, Board Games, Astrology  
 - 🎮 **Video Games**: Call of Duty  
 - 🎥 **Movies**: *Return to the 36th Chamber*  
-- 📺 **TV Shows**: *Family Guy*  
+- 📺 **TV Shows**: *One Piece*, *Family Guy*
 - 📚 **Books**: *The President’s Daughter* — Jack Higgins  
 - 🎵 **Music**: Jaubi — *Time: Donut of the Heart*  
   👉 [Spotify Playlists](https://open.spotify.com/user/316qpbk34qrwl4icuvmvscb2wfty/playlists)

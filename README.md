@@ -29,6 +29,6 @@
 - 🎮 **Video Games**: Call of Duty  
 - 🎥 **Movies**: *Return to the 36th Chamber*  
 - 📺 **TV Shows**: *One Piece*, *Family Guy*
-- 📚 **Books**: *The President’s Daughter* — Jack Higgins  
+- 📚 **Books**: *The Three-Body Problem* — Liu Cixin  
 - 🎵 **Music**: Jaubi — *Time: Donut of the Heart*  
   👉 [Spotify Playlists](https://open.spotify.com/user/316qpbk34qrwl4icuvmvscb2wfty/playlists)

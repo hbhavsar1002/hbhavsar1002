@@ -15,7 +15,7 @@
 
 ---
 
-- 🔭 Building scalable cloud data pipelines  
+- 🔭 Building scalable cloud data pipelines and performing insights-driven data analysis
 - 🌱 Learning advanced **dbt**, **Kafka**, **AI/ML**, and **CRISPR data applications**  
 - 👯 Open to collaborations in **Data Engineering** and **Data Analytics**  
 - 💬 Tech stack: **Python, SQL, Azure Cloud, Apache Spark, Databricks, Power BI, Tableau**  

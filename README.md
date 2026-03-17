@@ -29,6 +29,6 @@
 - 🎮 **Video Games**: Call of Duty  
 - 🎥 **Movies**: *Return to the 36th Chamber*  
 - 📺 **TV Shows**: *One Piece*, *Family Guy*
-- 📚 **Books**: *The Three-Body Problem* — Liu Cixin  
+- 📚 **Books**: *The Midnight Library* — Matt Haig 
 - 🎵 **Music**: Jaubi — *Time: Donut of the Heart*  
   👉 [Spotify Playlists](https://open.spotify.com/user/316qpbk34qrwl4icuvmvscb2wfty/playlists)
